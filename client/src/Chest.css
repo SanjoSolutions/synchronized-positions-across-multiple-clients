@@ -1,0 +1,15 @@
+.chest {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.chest__inner {
+  border: 1px solid black;
+  max-width: 30rem;
+  margin: 0.5rem auto 0;
+  padding: 0.5rem;
+  background-color: white;
+}
